@@ -1,4 +1,4 @@
-PROJECT TITLE : "Quora Question Classification using Deep Learning"
+# Project Title : Quora Question Classification using Deep Learning
 
 ## 📌 Project Overview
 This project focuses on building a **Deep Learning model** to classify Quora questions as **sincere (0)** or **insincere/toxic (1)** using Natural Language Processing (NLP) techniques.
@@ -10,6 +10,9 @@ The goal is to automatically detect harmful or misleading questions to improve c
 - Features:
   - `question_text` → Input text
   - `target` → Label (0 = sincere, 1 = insincere)
+ 
+## 🚀 Notebook
+👉 Google Colab: (https://colab.research.google.com/drive/1t2cDY7zbhAJSecsT6Oi6TNpEHuGgJII5?authuser=1#scrollTo=Kf5lSC9_dTL8)
 
 ## ⚙️ Tech Stack
 - Python
